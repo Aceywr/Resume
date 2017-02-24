@@ -69,7 +69,7 @@ body {
     background-image: url(../img/icon-sample-code.svg);
 }
 .side-part {
-    padding-left: 30px;
+    padding-left: 15px;
     text-align: left;
 }
 .side-part dt span {
@@ -81,7 +81,7 @@ body {
 
 .main {
     position: relative;
-    top: -1860px;
+    top: -2100px;
     left: 320px;
     width: 720px;
 }
